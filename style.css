@@ -1009,7 +1009,7 @@ margin-top: 21.5px;
   }
   .iconbox
   {
-      border-style: dashed;
+      border-style: hidden;
       width: 27.5%;
       height: 36px;
       margin-top: 20px; 
